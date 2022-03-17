@@ -1,0 +1,13 @@
+{
+    "name": "My template wf file",
+    "description": "Just another example.",
+    "iconName": "example-icon",
+    "categories": [
+        "C#"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
