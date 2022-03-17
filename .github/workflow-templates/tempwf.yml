@@ -4,6 +4,6 @@ on:
  
 jobs:
   job1:
-    - steps:
-      step1:
-        - run: echo Hello 
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo Hello 
