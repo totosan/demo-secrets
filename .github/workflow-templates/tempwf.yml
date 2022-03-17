@@ -1,0 +1,9 @@
+name: Temp
+on:
+  push:
+ 
+jobs:
+  job1:
+    - steps:
+      step1:
+        - run: echo Hello 
