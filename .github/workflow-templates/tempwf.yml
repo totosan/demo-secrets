@@ -7,4 +7,5 @@ jobs:
   job1:
     runs-on: ubuntu-latest
     steps:
-      - run: echo Hello 
+      - name: Shout Out
+        run: echo Hello 
