@@ -1,4 +1,4 @@
-name: Temp
+name: Temp WF 
 on:
   push:
     branches: [ $default-branch ]
